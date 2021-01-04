@@ -1,4 +1,4 @@
-class MapGame {
+class MapWorld {
   constructor(params) {
     this.params = params
     this.mesh = []
