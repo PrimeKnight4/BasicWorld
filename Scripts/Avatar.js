@@ -8,10 +8,6 @@ class Avatar extends ControllerInput {
     
   }
   
-  _CreateBullet() {
-    
-  }
-  
   update(delta) {
     
   }
