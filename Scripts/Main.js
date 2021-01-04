@@ -48,7 +48,7 @@ class World {
       camera: this.camera,
       world: this.world
     }
-    this.map = new MapGame(params)
+    this.map = new MapWorld(params)
     this.avatar = new Avatar(params)
   }
   
